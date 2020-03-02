@@ -1,0 +1,20 @@
+<Project>
+  <PropertyGroup>
+    <PivotalServicesBootstrapVersion>1.0.0</PivotalServicesBootstrapVersion>
+    <PivotalServicesBootstrapVersionSuffix></PivotalServicesBootstrapVersionSuffix>
+    <PivotalServicesBootstrapVersionRevision>0</PivotalServicesBootstrapVersionRevision>
+    <PivotalServicesBootstrapBuildNumber>$([System.DateTime]::Now.ToString(yyyyMMddHHmmss))</PivotalServicesBootstrapBuildNumber>
+    <PivotalServicesBootstrapCopyright>All rights reserved.</PivotalServicesBootstrapCopyright>
+    <PivotalServicesBootstrapPackageVersion>$(PivotalServicesBootstrapVersion)$(PivotalServicesBootstrapVersionSuffix)</PivotalServicesBootstrapPackageVersion>
+    <PivotalServicesBootstrapAssemblyVersion>$(PivotalServicesBootstrapVersion).$(PivotalServicesBootstrapVersionRevision)</PivotalServicesBootstrapAssemblyVersion>
+    <PivotalServicesBootstrapFileVersion>$(PivotalServicesBootstrapVersion).$(PivotalServicesBootstrapVersionRevision)</PivotalServicesBootstrapFileVersion>
+    <PivotalServicesBootstrapInformationalVersion>$(PivotalServicesBootstrapPackageVersion)-$(PivotalServicesBootstrapVersionRevision)-$(PivotalServicesBootstrapBuildNumber)</PivotalServicesBootstrapInformationalVersion>
+    <PivotalServicesBootstrapPackageVersion>$(PivotalServicesBootstrapPackageVersion)</PivotalServicesBootstrapPackageVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MicrosoftAspNetVersion>5.2.7</MicrosoftAspNetVersion>
+    <MicrosoftAspNetCoreVersion>2.2.0</MicrosoftAspNetCoreVersion>
+    <MicrosoftExtensionsVersion>2.2.0</MicrosoftExtensionsVersion>
+    <TargetFrameworkGeneral>net461</TargetFrameworkGeneral>
+  </PropertyGroup>
+</Project>
