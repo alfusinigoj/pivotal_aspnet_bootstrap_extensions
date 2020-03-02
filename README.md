@@ -231,11 +231,11 @@ Build | PivotalServices.AspNet.Bootstrap.Extensions |
 
 ### Ongoing development packages in MyGet
 
-Feed | Configuration | Logging | Actuators | Redis.Session | Windows Authentication | Base |
+Feed | PivotalServices.AspNet.Bootstrap.Extensions |
 --- | --- | --- | --- |--- | --- | -- |
-[V3](https://www.myget.org/F/ajaganathan/api/v3/index.json) | [![MyGet](https://img.shields.io/myget/ajaganathan/v/PivotalServices.AspNet.Replatform.Cf.Configuration.svg?style=flat-square)](https://www.myget.org/feed/ajaganathan/package/nuget/PivotalServices.AspNet.Replatform.Cf.Configuration) | [![MyGet](https://img.shields.io/myget/ajaganathan/v/PivotalServices.AspNet.Replatform.Cf.Logging.svg?style=flat-square)](https://www.myget.org/feed/ajaganathan/package/nuget/PivotalServices.AspNet.Replatform.Cf.Logging) | [![MyGet](https://img.shields.io/myget/ajaganathan/v/PivotalServices.AspNet.Replatform.Cf.Actuators.svg?style=flat-square)](https://www.myget.org/feed/ajaganathan/package/nuget/PivotalServices.AspNet.Replatform.Cf.Actuators) | [![MyGet](https://img.shields.io/myget/ajaganathan/v/PivotalServices.AspNet.Replatform.Cf.Redis.Session.svg?style=flat-square)](https://www.myget.org/feed/ajaganathan/package/nuget/PivotalServices.AspNet.Replatform.Cf.Redis.Session) | [![MyGet](https://img.shields.io/myget/ajaganathan/v/PivotalServices.AspNet.Replatform.Cf.WinAuth.svg?style=flat-square)](https://www.myget.org/feed/ajaganathan/package/nuget/PivotalServices.AspNet.Replatform.Cf.WinAuth) | [![MyGet](https://img.shields.io/myget/ajaganathan/v/PivotalServices.AspNet.Replatform.Cf.Base.svg?style=flat-square)](https://www.myget.org/feed/ajaganathan/package/nuget/PivotalServices.AspNet.Replatform.Cf.Base) 
+[V3](https://www.myget.org/F/ajaganathan/api/v3/index.json) | [![MyGet](https://img.shields.io/myget/ajaganathan/v/PivotalServices.AspNet.Bootstrap.Extensions.svg?style=flat-square)](https://www.myget.org/feed/ajaganathan/package/nuget/PivotalServices.AspNet.Bootstrap.Extensions) 
 
 ### Issues
-- Kindly raise any issues under [GitHub Issues](https://github.com/alfusinigoj/pivotal_cloudfoundry_replatform_bootstrap/issues)
+- Kindly raise any issues under [GitHub Issues](https://github.com/alfusinigoj/pivotal_aspnet_bootstrap_extensions/issues)
 
 ### Contributions are welcome!
