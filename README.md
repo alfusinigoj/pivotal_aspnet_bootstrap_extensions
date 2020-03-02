@@ -232,7 +232,7 @@ Build | PivotalServices.AspNet.Bootstrap.Extensions |
 ### Ongoing development packages in MyGet
 
 Feed | PivotalServices.AspNet.Bootstrap.Extensions |
---- | --- | --- | --- |--- | --- | -- |
+--- | --- |
 [V3](https://www.myget.org/F/ajaganathan/api/v3/index.json) | [![MyGet](https://img.shields.io/myget/ajaganathan/v/PivotalServices.AspNet.Bootstrap.Extensions.svg?style=flat-square)](https://www.myget.org/feed/ajaganathan/package/nuget/PivotalServices.AspNet.Bootstrap.Extensions) 
 
 ### Issues
