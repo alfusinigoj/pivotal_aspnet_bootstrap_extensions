@@ -2,7 +2,7 @@
 
 Build | PivotalServices.AspNet.Bootstrap.Extensions |
 --- | --- |
-[![Build Status](https://dev.azure.com/ajaganathan-home/pivotal_aspnet_bootstrap_extensions/_apis/build/status/alfusinigoj.pivotal_aspnet_bootstrap_extensions?branchName=master)](https://dev.azure.com/ajaganathan-home/pivotal-aspnet-bootstrap-extensions/_build/latest?definitionId=2&branchName=master) | [![NuGet](https://img.shields.io/nuget/v/PivotalServices.AspNet.Replatform.Cf.Base.svg?style=flat-square)](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions) 
+[![Build Status](https://dev.azure.com/ajaganathan-home/pivotal_aspnet_bootstrap_extensions/_apis/build/status/alfusinigoj.pivotal_aspnet_bootstrap_extensions?branchName=master)](https://dev.azure.com/ajaganathan-home/pivotal-aspnet-bootstrap-extensions/_build/latest?definitionId=2&branchName=master) | [![NuGet](https://img.shields.io/nuget/v/ivotalServices.AspNet.Bootstrap.Extension.svg?style=flat-square)](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions) 
 
 ### Quick Links
 - [Supported ASP.NET apps](https://github.com/alfusinigoj/pivotal_aspnet_bootstrap_extensions#supported-aspnet-apps)
