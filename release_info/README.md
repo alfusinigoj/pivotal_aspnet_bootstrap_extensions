@@ -1,3 +1,6 @@
+#### 1.1.0
+- Updated `MicrosoftExtensions` packages version to 3.1.7 (LTS)
+
 #### 1.0.0
 - Renamed and moved https://www.nuget.org/packages/PivotalServices.AspNet.Replatform.Cf.Base/ to a new repo (https://github.com/alfusinigoj/pivotal_aspnet_bootstrap_extensions) and new package name (`PivotalServices.AspNet.Bootstrap.Extensions`), as it is no more specific to Cloud Foundry
 
