@@ -31,7 +31,8 @@ namespace PivotalServices.AspNet.Bootstrap.Extensions
                 .ConfigureServices((builderContext, services) =>
                 {
                     services.AddOptions();
-                    services.AddLogging((builder) => {
+                    services.AddLogging((builder) =>
+                    {
                         builder.AddConfiguration(builderContext.Configuration.GetSection("Logging"));
                         builder.AddConsole();
                         builder.AddDebug();
@@ -56,12 +57,21 @@ namespace PivotalServices.AspNet.Bootstrap.Extensions
 
         public static T GetService<T>()
         {
+            if (host == null || host.Services == null)
+                throw new ApplicationException("AppBuilder is not setup at the startup or built properly!");
+
             return host.Services.GetService<T>();
         }
 
         public static IServiceProvider ServiceProvider
         {
-            get { return host.Services; }
+            get
+            {
+                if (host == null || host.Services == null)
+                    throw new ApplicationException("AppBuilder is not setup at the startup or built properly!");
+
+                return host.Services;
+            }
         }
     }
 }
