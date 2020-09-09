@@ -137,8 +137,8 @@
     <Reference Include="Microsoft.Extensions.Primitives, Version=3.1.7.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Microsoft.Extensions.Primitives.3.1.7\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll</HintPath>
     </Reference>
-    <Reference Include="PivotalServices.AspNet.Bootstrap.Extensions, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\PivotalServices.AspNet.Bootstrap.Extensions.1.1.0\lib\net461\PivotalServices.AspNet.Bootstrap.Extensions.dll</HintPath>
+    <Reference Include="PivotalServices.AspNet.Bootstrap.Extensions, Version=1.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\PivotalServices.AspNet.Bootstrap.Extensions.1.1.1\lib\net461\PivotalServices.AspNet.Bootstrap.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">

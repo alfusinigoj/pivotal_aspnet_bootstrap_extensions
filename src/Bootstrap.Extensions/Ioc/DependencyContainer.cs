@@ -7,7 +7,7 @@ namespace PivotalServices.AspNet.Bootstrap.Extensions.Ioc
     {
         public static T GetService<T>(bool isRequired = true)
         {
-            var service = (T)GlobalConfiguration.Configuration.DependencyResolver.GetService(typeof(T));
+            var service = (T)GlobalConfiguration.Configuration?.DependencyResolver?.GetService(typeof(T));
 
             if (service == null)
                 service = AppConfig.GetService<T>();

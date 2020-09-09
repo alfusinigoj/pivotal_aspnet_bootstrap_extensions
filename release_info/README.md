@@ -1,3 +1,6 @@
+#### 1.1.1
+- Handler error gracefully when accessing DependencyContainer without building AppBuilder
+
 #### 1.1.0
 - Updated `MicrosoftExtensions` packages version to 3.1.7 (LTS)
 
